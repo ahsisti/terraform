@@ -1,0 +1,10 @@
+terraform.tfvars
+kubeconfig.yaml
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.25.2/darwin_amd64/CHANGELOG.md
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.25.2/darwin_amd64/LICENSE
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.25.2/darwin_amd64/README.md
+.terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.25.2/darwin_amd64/terraform-provider-digitalocean_v2.25.2
+.terraform/providers/registry.terraform.io/hashicorp/local/2.3.0/darwin_amd64/terraform-provider-local_v2.3.0_x5
